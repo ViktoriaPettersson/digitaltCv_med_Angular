@@ -1,0 +1,28 @@
+.bg {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    background: #1D1D1D;
+    overflow: hidden;
+    z-index: -1;  
+}
+svg {
+    right: 0%;
+    position: absolute;
+    z-index: inherit;
+}
+.showcase {
+    margin-top: 15rem;
+}
+.showcase {
+  max-width: 40rem;
+}
+@media (max-width: 576px) { 
+    svg {
+       left: 20%;
+    }
+ }

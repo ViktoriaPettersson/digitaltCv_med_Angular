@@ -1,0 +1,10 @@
+<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207.12" height="1080.439" viewBox="0 0 207.12 1080.439">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f95858"/>
+      <stop offset="1" stop-color="#f95858"/>
+    </linearGradient>
+  </defs>
+  <path id="wave" d="M799.678,128.179l-24.02-19.7c-24.02-19.405-72.061-59.249-120.1-78.655-48.041-19.7-96.082-19.7-144.123,3.911s-96.082,70.834-144.123,90.534c-48.041,19.405-96.082,12.027-144.123-11.806-48.041-23.39-79.454-85.052-144.123-84.505C-32.826,33.365-280.351,222.624-280.351,222.624H799.678Z" transform="translate(222.624 280.761) rotate(90)" fill="#fbb"/>
+  <path id="wave-2" data-name="wave" d="M1080.439,68.425l-24.03-11.964C1032.38,44.677,984.321,20.481,936.262,8.7,888.2-3.268,840.144-3.268,792.085,11.071S695.966,54.086,647.907,66.05c-48.059,11.784-96.118,7.3-144.177-7.169-48.059-14.2-87.7-47.708-144.177-51.318C274.316-1.324,0,125.779,0,125.779H1080.439Z" transform="translate(126.801) rotate(90)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,14 @@
+.contact {
+    color: rgb(255, 0, 0);
+}
+.nav-link {
+    position: relative;
+}
+.a::after {
+    content: "";
+    position: absolute;
+    border-bottom: 2px solid #fff;
+    left: 0.5rem;
+    right: 1.5rem;
+    top: 2rem;
+}

@@ -1,0 +1,51 @@
+.bg {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    background: #1D1D1D;
+    overflow: hidden;
+    z-index: -1;  
+}
+.waweRight svg {
+    right: 0%;
+    position: absolute;
+    z-index: -1;
+}
+.waweLeft svg {
+    left: 0%;
+    top: 55%;
+    position: absolute;
+    z-index: -1;
+}
+.about {
+    margin-top: 15rem;
+}
+.about-text {
+   max-width: 40rem;
+}
+.skills {
+    margin-top: 25rem;
+    margin-bottom: 20rem;
+    max-width: 40rem;
+}
+.skill-left {
+    text-align: end;
+}
+.skill-right {
+    text-align: start;
+}
+
+@media (max-width: 576px) { 
+    .waweRight, .waweLeft svg  {
+       display: none;
+    }
+    .divider {
+        display: none;
+    }
+    .skills {
+        margin-top: 10rem;
+    }
+ }
